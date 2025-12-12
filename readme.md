@@ -97,7 +97,7 @@ int main() {
 print("Hello from Python!")
 ```
 
-Syntax:
+**Syntax:**
 ```
 ```language
 your code here
@@ -188,7 +188,7 @@ Syntax:
 
 # 11. Badges
 
-Example:
+Example:  
 ![GitHub License](https://img.shields.io/badge/license-MIT-green)
 
 Syntax:
@@ -200,6 +200,14 @@ Syntax:
 
 # 12. Common Project Sections
 
+Example:
+## 🚀 Features  
+## 🛠 Installation  
+## 📂 Folder Structure  
+## 🤝 Contributing  
+## 📜 License  
+
+Syntax:
 ```
 ## 🚀 Features
 ## 🛠 Installation
